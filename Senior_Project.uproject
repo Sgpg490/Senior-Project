@@ -2,11 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.10",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Substance",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
