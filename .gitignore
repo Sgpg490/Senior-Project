@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Build
 *.opensdf
 *.sdf
 *.sln
@@ -9,3 +10,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Config/DefaultInput.ini
+*.log
